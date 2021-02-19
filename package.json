@@ -1,0 +1,8 @@
+{
+  "name": "node-template",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/Kotlia/node-template.git",
+  "author": "Shun Ueda <62182668+Kotlia@users.noreply.github.com>",
+  "license": "MIT"
+}
