@@ -1,3 +1,7 @@
+# User defined
+build
+dist
+
 # Logs
 logs
 *.log
